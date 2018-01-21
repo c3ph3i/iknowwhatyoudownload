@@ -19,9 +19,5 @@ composer install
 Once you installed the program - run it.
 
 ```sh
-sudo  ./run.sh
+./run.sh
 ```
-
-
-
-
