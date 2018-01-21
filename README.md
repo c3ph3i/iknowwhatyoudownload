@@ -12,7 +12,7 @@ This app is using http://iknowwhatyoudownload.com/ API
 
 ```sh
 git clone https://github.com/c3ph3i/iknowwhatyoudownload.git
-cd freevpn
+cd iknowwhatyoudownload
 composer install
 ```
 
