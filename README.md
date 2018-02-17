@@ -7,6 +7,7 @@ This app is using http://iknowwhatyoudownload.com/ API
   - PHP
   - UNIX based OS
   - Composer
+  - CURL PHP extension
 
 # Installing and run
 
