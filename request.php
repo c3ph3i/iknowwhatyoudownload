@@ -41,7 +41,7 @@ _____________________________________________________________________________
 
 $ch = curl_init();
 
-$request_uri = "https://api.antitor.com/history/peer?ip=". $ip ."&days=30&lang=en&key=51413faacf4b487394509cb6afd9170d";
+$request_uri = "https://api.antitor.com/history/peer/?ip=". $ip ."&days=30&lang=en&key=51413faacf4b487394509cb6afd9170d";
 
 curl_setopt($ch, CURLOPT_URL, $request_uri);
 
